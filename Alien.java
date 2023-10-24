@@ -5,6 +5,7 @@ import java.awt.Graphics;
 import java.awt.Image;
 import javax.imageio.ImageIO;
 //hoy 24-10-2023
+//2
 public class Alien extends SpaceCharacter
 {
      boolean isVis;
