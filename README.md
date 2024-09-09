@@ -1,4 +1,3 @@
 # space-invaders
 Java code clone
-abanero
-2
+@author LearnEDU
