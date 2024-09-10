@@ -1,3 +1,3 @@
 # space-invaders
-Java code clone
+Java buggy code 
 @author LearnEDU
